@@ -1,0 +1,8 @@
+matris.egg-info/
+build/
+materium_structures/
+meanflow_structures/
+*.cif
+*.sh
+*.out
+*.err
